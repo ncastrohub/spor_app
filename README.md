@@ -1,6 +1,7 @@
 # Spor
 ## Single point of Rate
 
+![Spor logo](https://drive.google.com/file/d/1vO3BcLVId1h5XS3IC0D24m-2j67QA)
 ## Integrantes
 
 Nazareno Castro @ncastrohub
