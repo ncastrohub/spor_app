@@ -1,7 +1,7 @@
 # Spor
 ## Single point of Rate
 
-![Spor logo](https://drive.google.com/file/d/1vO3BcLVId1h5XS3IC0D24m-2j67QA)
+![Spor logo](https://user-images.githubusercontent.com/11638658/45330196-a5408600-b53a-11e8-8999-d34461908ef3.png)
 
 ## Integrantes
 
