@@ -16,24 +16,24 @@ Además permite a los usuarios obtener métricas sobre su paso por las distintas
 #### Repositorios
 
 Backend - Api
-[Spor Api](https://github.com/ncastrohub/spor_api)
+[Ir](https://github.com/ncastrohub/spor_api)
 
 Frontend - Cliente - Backoffice
-[Spor Client](https://github.com/ncastrohub/spor-client)
+[ir](https://github.com/ncastrohub/spor-client)
 
 App Cliente de Prueba
-[App Cliente de Prueba](https://github.com/ncastrohub/spor-test-app)
+[i](https://github.com/ncastrohub/spor-test-app)
 
 #### Recursos
 
 Backend - Api Desplegado en Heroku
-[App En Heroku](https://spor-api.herokuapp.com/)
+[Ir](https://spor-api.herokuapp.com/)
 
 Backend - Api Servidor Integracion Continua
-[App En Heroku](https://travis-ci.org/ncastrohub/spor_api/branches)
+[Ir](https://travis-ci.org/ncastrohub/spor_api/branches)
 
 Backend - Api Codacy code checker
-[App En Heroku](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
+[Ir](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
 
 #### Documentación Tecnica (En Contruccion)
 
@@ -42,7 +42,7 @@ Backend - Api Codacy code checker
 ##### Entrega 1
 
 Casos de Uso
-[App En Heroku](https://github.com/ncastrohub/spor_app/wiki/Casos-de-Uso-Entrega-1)
+[Ir](https://github.com/ncastrohub/spor_app/wiki/Casos-de-Uso-Entrega-1)
 
 
 
