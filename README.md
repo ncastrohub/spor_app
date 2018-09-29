@@ -26,6 +26,18 @@ Frontend - Cliente - Backoffice
 
 [Spor Client](https://github.com/ncastrohub/spor-client)
 
+App Cliente de Prueba
 
-[App Cliente de Prueba]()
+[App Cliente de Prueba](https://github.com/ncastrohub/spor-test-app)
+
+Backend - Api Desplegado en Heroku
+[App En Heroku](https://spor-api.herokuapp.com/)
+
+
+Backend - Api Servidor Integracion Continua
+[App En Heroku](https://travis-ci.org/ncastrohub/spor_api/branches)
+
+Backend - Api Codacy code checker
+[App En Heroku](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
+
 
