@@ -13,28 +13,36 @@ Nazareno Castro @ncastrohub
 >Spor sirve para centralizar en un solo software, un solo punto,  las calificaciones que puedan llegar a surgir entre usuarios de una aplicación como resultado de la interacción de los mismos dentro de un sistema.
 Además permite a los usuarios obtener métricas sobre su paso por las distintas aplicaciones y sobre terceros con los que vayan a interactuar.
 
-### Repositorios:
+#### Repositorios
 
 Backend - Api
-
 [Spor Api](https://github.com/ncastrohub/spor_api)
 
 Frontend - Cliente - Backoffice
-
 [Spor Client](https://github.com/ncastrohub/spor-client)
 
 App Cliente de Prueba
-
 [App Cliente de Prueba](https://github.com/ncastrohub/spor-test-app)
+
+#### Recursos
 
 Backend - Api Desplegado en Heroku
 [App En Heroku](https://spor-api.herokuapp.com/)
-
 
 Backend - Api Servidor Integracion Continua
 [App En Heroku](https://travis-ci.org/ncastrohub/spor_api/branches)
 
 Backend - Api Codacy code checker
 [App En Heroku](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
+
+#### Documentación Tecnica (En Contruccion)
+
+#### Entregas
+
+##### Entrega 1
+
+Casos de Uso
+[App En Heroku](https://github.com/ncastrohub/spor_app/wiki/Casos-de-Uso-Entrega-1)
+
 
 
