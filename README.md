@@ -1,4 +1,5 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/060cc949c36646caa742f9fb306a756a)](https://www.codacy.com/app/nazarenomartincastro/spor_api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ncastrohub/spor_api&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6dc335a3fa00440fa5f5d92573527e56)](https://app.codacy.com/app/nazarenomartincastro/spor_api?utm_source=github.com&utm_medium=referral&utm_content=ncastrohub/spor_api&utm_campaign=Badge_Grade_Dashboard)
+[![Build Status](https://travis-ci.org/ncastrohub/spor_api.svg?branch=master)](https://travis-ci.org/ncastrohub/spor_api)
 
 
 # Spor
