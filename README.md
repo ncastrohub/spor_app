@@ -22,7 +22,7 @@ Frontend - Cliente - Backoffice
 [ir](https://github.com/ncastrohub/spor-client)
 
 App Cliente de Prueba
-[i](https://github.com/ncastrohub/spor-test-app)
+[ir](https://github.com/ncastrohub/spor-test-app)
 
 #### Recursos
 
