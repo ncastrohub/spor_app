@@ -32,7 +32,7 @@ Nazareno Castro @ncastrohub
 
 [Backend - Api Codacy code checker](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
 
-#### Documentación Tecnica (En Contruccion)
+#### Documentación Tecnica
 
 #### Entregas
 
