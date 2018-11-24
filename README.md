@@ -10,39 +10,39 @@ Nazareno Castro @ncastrohub
 
 ### Objetivo
 
->Spor sirve para centralizar en un solo software, un solo punto,  las calificaciones que puedan llegar a surgir entre usuarios de una aplicación como resultado de la interacción de los mismos dentro de un sistema.
-Además permite a los usuarios obtener métricas sobre su paso por las distintas aplicaciones y sobre terceros con los que vayan a interactuar.
+>Centralizar en un solo software, un solo punto, las calificaciones que se puedan requerir de un usuario hacia, otro usuario, un producto, un elemento, una relación comercial, etcetera.
 
 #### Repositorios
 
-Backend - Api
-[Ir](https://github.com/ncastrohub/spor_api)
 
-Frontend - Cliente - Backoffice
-[ir](https://github.com/ncastrohub/spor-client)
+[Backend - SporApi](https://github.com/ncastrohub/spor_api)
 
-App Cliente de Prueba
-[ir](https://github.com/ncastrohub/spor-test-app)
+[Frontend - Cliente - Backoffice](https://github.com/ncastrohub/spor-client)
+
+[App Cliente de Prueba](https://github.com/ncastrohub/spor-test-app)
 
 #### Recursos
 
-Backend - Api Desplegado en Heroku
-[Ir](https://spor-api.herokuapp.com/)
 
-Backend - Api Servidor Integracion Continua
-[Ir](https://travis-ci.org/ncastrohub/spor_api/branches)
+[Backend - Api Desplegado en Heroku](https://spor-api.herokuapp.com/)
 
-Backend - Api Codacy code checker
-[Ir](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
+
+[Backend - Api Servidor Integracion Continua](https://travis-ci.org/ncastrohub/spor_api/branches)
+
+
+[Backend - Api Codacy code checker](https://app.codacy.com/project/nazarenomartincastro/spor_api/dashboard)
 
 #### Documentación Tecnica (En Contruccion)
 
 #### Entregas
 
-##### Entrega 1
+[Entrega 1](https://github.com/ncastrohub/spor_app/wiki/Entrega-1)
 
-Casos de Uso
-[Ir](https://github.com/ncastrohub/spor_app/wiki/Casos-de-Uso-Entrega-1)
+[Entrega 2](https://github.com/ncastrohub/spor_app/wiki/Entrega-2)
+
+[Entrega 3](https://github.com/ncastrohub/spor_app/wiki/Entrega-3)
+
+[Entrega 4](https://github.com/ncastrohub/spor_app/wiki/Entrega-4)
 
 
 
