@@ -4,7 +4,7 @@
 ![Spor logo](https://user-images.githubusercontent.com/11638658/45330196-a5408600-b53a-11e8-8999-d34461908ef3.png)
 ## Single point of Rate
 ---
-## Integrantes
+## Responsable
 
 Nazareno Castro @ncastrohub
 
